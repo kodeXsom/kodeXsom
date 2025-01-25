@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving and developing.
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me somanathnaik@outlook.com
+- 📫 How to reach me somanathnaik21@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: As a curious coder i prefer the grind rather than glory :)
 
