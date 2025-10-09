@@ -1,6 +1,6 @@
 # Hi, I'm kodeXsom 👋
 
-Currently learning web development with [The Odin Project](https://www.theodinproject.com/).
+Currently learning web development.
 
 > **I want to share grind not glory.**
 
