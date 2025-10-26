@@ -2,7 +2,7 @@
 
 Currently learning web development.
 
-> **I want to share grind not glory.**
+
 
 ---
 
